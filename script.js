@@ -3,7 +3,8 @@
 var deck = ["Vampires","Apes","Robots","Ninjas","Fairies","Shape Shifters","Time Travelers",
 				"Plants", "Mythical Horses","Dinos","Princesses","Aliens","Wizards","Geeks",
 				"Tricksters","Pirates","Spies","Zombees","Steam Punks","Ghosts","Bears",
-				"Giant Ants","Kittens","Mad Scientists","Werewolves"];
+				"Giant Ants","Kittens","Mad Scientists","Werewolves","Astroknights",
+				"Star Roamers","Changerbots","Ignobles"];
 
 //List of cards that have been selected
 var pickedCards = [];
