@@ -1,10 +1,6 @@
 
 //List of of Smash Up factions that I own
-var deck = ["Vampires","Apes","Robots","Ninjas","Fairies","Shape Shifters","Time Travelers",
-				"Plants", "Mythical Horses","Dinos","Princesses","Aliens","Wizards","Geeks",
-				"Tricksters","Pirates","Spies","Zombees","Steam Punks","Ghosts","Bears",
-				"Giant Ants","Kittens","Mad Scientists","Werewolves","Astroknights",
-				"Star Roamers","Changerbots","Ignobles"];
+var deck = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21];
 
 //List of cards that have been selected
 var pickedCards = [];
